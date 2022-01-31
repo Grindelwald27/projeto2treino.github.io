@@ -1,0 +1,49 @@
+body{
+	background: #d2d2c1 url('imagens/estrelas.jpg');
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#links{
+	background: #171515;
+	padding: 18px;
+	color: white;
+
+}
+
+#conteudo{
+	background: #171717;
+	padding: 10px;
+}
+
+h2 {
+	color: #828271;
+	font-size: 1.2em;
+}
+
+#principal {
+	width: 59%;
+}
+
+a {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+#rodape{
+	text-align: center;
+}
+
+.img-campanha{
+	border-image: 10px solid #c3c3ae;
+}
+
+#imagem-capa{
+	width: 70%;
+    background-repeat: repeat-x;
+}
+
+p{
+	color: whitesmoke;
+}
